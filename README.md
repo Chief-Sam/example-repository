@@ -3,6 +3,6 @@
 Hello, World!
 This is an example repository
 
-//adding a .html file for second commit
+adding a .html file for second commit
 
 --- end ---
